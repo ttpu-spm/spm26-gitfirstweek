@@ -28,8 +28,8 @@ This assignment introduces you how to _Introduction to Git_ and _Review pull req
 ## Course Repository URLs
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
-   _Introduction to Git_: _REPO_LINK_
-   _Review pull requests_: _REPO_LINK_
-   _Resolve merge conflicts_: _REPO_LINK_
-   _Code with Codespaces_: _REPO_LINK_
-   _Introduction to Repo Management_: _REPO_LINK_
+   - _Introduction to Git_: _REPO_LINK_
+   - _Review pull requests_: _REPO_LINK_
+   - _Resolve merge conflicts_: _REPO_LINK_
+   - _Code with Codespaces_: _REPO_LINK_
+   - _Introduction to Repo Management_: _REPO_LINK_
