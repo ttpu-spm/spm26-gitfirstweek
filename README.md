@@ -11,11 +11,11 @@ This assignment introduces you how to _Introduction to Git_ and _Review pull req
 * You need to finish 5 seperate courses step by step and put the links of each repository respectively at the and of this readme file.
 
 1. **Start the Course**: Visit the GitHub Skills course:
-   _Introduction to Git_: https://github.com/skills/introduction-to-git
-   _Review pull requests_: https://github.com/skills/review-pull-requests
-   _Resolve merge conflicts_: https://github.com/skills/resolve-merge-conflicts
-   _Code with Codespaces_: https://github.com/skills/code-with-codespaces
-   _Introduction to Repo Management_: https://github.com/skills/introduction-to-repository-management
+   -_Introduction to Git_: https://github.com/skills/introduction-to-git 
+   -_Review pull requests_: https://github.com/skills/review-pull-requests
+   -_Resolve merge conflicts_: https://github.com/skills/resolve-merge-conflicts
+   -_Code with Codespaces_: https://github.com/skills/code-with-codespaces
+   -_Introduction to Repo Management_: https://github.com/skills/introduction-to-repository-management
 
 3. **Complete the Course**: 
    - Starting the course creates a repository in your personal GitHub account
